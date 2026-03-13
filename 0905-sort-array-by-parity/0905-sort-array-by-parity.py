@@ -1,10 +1,16 @@
 class Solution:
-    def sortArrayByParity(self, nums: list[int]) -> list[int]:
-        evens = []
-        odds = []
-        for num in nums:
-            if num % 2 == 0:
-                evens.append(num)
-            else:
-                odds.append(num)
-        return evens + odds
+    def sortArrayByParity(self, nums):
+        left = 0
+        right = len(nums) - 1
+        
+        while left < right:
+            if nums[left] % 2 > nums[right] % 2:
+                nums[left], nums[right] = nums[right], nums[left]
+            
+            if nums[left] % 2 == 0:
+                left += 1
+            
+            if nums[right] % 2 == 1:
+                right -= 1
+        
+        return nums
