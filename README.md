@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/yuti-AMZ/LeetCode/tree/master/0035-search-insert-position) |
 | [0164-maximum-gap](https://github.com/yuti-AMZ/LeetCode/tree/master/0164-maximum-gap) |
 ## Sorting
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/yuti-AMZ/LeetCode/tree/master/0164-maximum-gap) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/yuti-AMZ/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
