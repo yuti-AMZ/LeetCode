@@ -3,9 +3,12 @@ class Solution:
         if not strs:
             return ""
 
-        for i in range(len(strs[0])):
-            for s in strs[1:]:
-                if i >= len(s) or s[i] != strs[0][i]:
-                    return strs[0][:i]
+        prefix = strs[0]
 
-        return strs[0]
+        for s in strs[1:]:
+            while not s.startswith(prefix):
+                prefix = prefix[:-1]
+                if not prefix:
+                    return ""
+
+        return prefix
