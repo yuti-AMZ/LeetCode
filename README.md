@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/yuti-AMZ/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/yuti-AMZ/LeetCode/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/yuti-AMZ/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yuti-AMZ/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuti-AMZ/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/yuti-AMZ/LeetCode/tree/master/0067-add-binary) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yuti-AMZ/LeetCode/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/yuti-AMZ/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
