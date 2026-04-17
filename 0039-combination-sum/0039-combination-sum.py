@@ -2,22 +2,19 @@ class Solution:
     def combinationSum(self, candidates, target):
         result = []
 
-        def backtrack(start, path, remaining):
- 
-            if remaining == 0:
+        def backtrack(start, path, total):
+            # Base cases
+            if total == target:
                 result.append(path[:])
                 return
-            
-            if remaining < 0:
+            if total > target:
                 return
 
+            # Try all options starting from 'start'
             for i in range(start, len(candidates)):
- 
                 path.append(candidates[i])
+                backtrack(i, path, total + candidates[i])  # reuse same element
+                path.pop()  # undo choice
 
-                backtrack(i, path, remaining - candidates[i])
-
-                path.pop()
-
-        backtrack(0, [], target)
+        backtrack(0, [], 0)
         return result
