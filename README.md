@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/yuti-AMZ/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/yuti-AMZ/LeetCode/tree/master/0046-permutations) |
 | [0093-restore-ip-addresses](https://github.com/yuti-AMZ/LeetCode/tree/master/0093-restore-ip-addresses) |
 ## Array
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yuti-AMZ/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/yuti-AMZ/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/yuti-AMZ/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/yuti-AMZ/LeetCode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/yuti-AMZ/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yuti-AMZ/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/yuti-AMZ/LeetCode/tree/master/0164-maximum-gap) |
