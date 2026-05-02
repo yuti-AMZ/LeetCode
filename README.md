@@ -46,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yuti-AMZ/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/yuti-AMZ/LeetCode/tree/master/0164-maximum-gap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yuti-AMZ/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/yuti-AMZ/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yuti-AMZ/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/yuti-AMZ/LeetCode/tree/master/0164-maximum-gap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yuti-AMZ/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/yuti-AMZ/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yuti-AMZ/LeetCode/tree/master/0013-roman-to-integer) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/yuti-AMZ/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Stack
 |  |
 | ------- |
