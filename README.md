@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yuti-AMZ/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yuti-AMZ/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/yuti-AMZ/LeetCode/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/yuti-AMZ/LeetCode/tree/master/0217-contains-duplicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yuti-AMZ/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yuti-AMZ/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/yuti-AMZ/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/yuti-AMZ/LeetCode/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/yuti-AMZ/LeetCode/tree/master/0217-contains-duplicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yuti-AMZ/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yuti-AMZ/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Bucket Sort
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yuti-AMZ/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/yuti-AMZ/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/yuti-AMZ/LeetCode/tree/master/0217-contains-duplicate) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yuti-AMZ/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Stack
 |  |
