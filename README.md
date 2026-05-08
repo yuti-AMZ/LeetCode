@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yuti-AMZ/LeetCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/yuti-AMZ/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/yuti-AMZ/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yuti-AMZ/LeetCode/tree/master/0067-add-binary) |
 ## String
@@ -138,4 +139,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yuti-AMZ/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/yuti-AMZ/LeetCode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/yuti-AMZ/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
