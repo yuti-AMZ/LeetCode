@@ -3,16 +3,18 @@ class Solution:
         if numRows == 1 or numRows >= len(s):
             return s
 
-        rows = [""] * numRows
-        current_row = 0
-        going_down = False
+        idx, d = 0, 1
+        rows = [[] for _ in range(numRows)]
 
         for char in s:
-            rows[current_row] += char
+            rows[idx].append(char)
+            if idx == 0:
+                d = 1
+            elif idx == numRows - 1:
+                d = -1
+            idx += d
 
-            if current_row == 0 or current_row == numRows - 1:
-                going_down = not going_down
+        for i in range(numRows):
+            rows[i] = ''.join(rows[i])
 
-            current_row += 1 if going_down else -1
-
-        return "".join(rows)
+        return ''.join(rows)   
