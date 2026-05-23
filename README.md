@@ -53,6 +53,7 @@ A cpollection of LeetCode questions to ace the coding interview! - Created using
 | [0039-combination-sum](https://github.com/yuti-AMZ/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/yuti-AMZ/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/yuti-AMZ/LeetCode/tree/master/0046-permutations) |
+| [0057-insert-interval](https://github.com/yuti-AMZ/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/yuti-AMZ/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yuti-AMZ/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yuti-AMZ/LeetCode/tree/master/0088-merge-sorted-array) |
