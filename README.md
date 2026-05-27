@@ -24,6 +24,7 @@ A collection of LeetCode questions use to the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/yuti-AMZ/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/yuti-AMZ/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/yuti-AMZ/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/yuti-AMZ/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/yuti-AMZ/LeetCode/tree/master/0093-restore-ip-addresses) |
 ## Bit Manipulation
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions use to the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yuti-AMZ/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/yuti-AMZ/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/yuti-AMZ/LeetCode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/yuti-AMZ/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/yuti-AMZ/LeetCode/tree/master/0093-restore-ip-addresses) |
 ## Array
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions use to the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/yuti-AMZ/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/yuti-AMZ/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yuti-AMZ/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/yuti-AMZ/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/yuti-AMZ/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/yuti-AMZ/LeetCode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/yuti-AMZ/LeetCode/tree/master/0217-contains-duplicate) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions use to the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/yuti-AMZ/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yuti-AMZ/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/yuti-AMZ/LeetCode/tree/master/0100-same-tree) |
 ## Breadth-First Search
@@ -157,4 +161,8 @@ A collection of LeetCode questions use to the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yuti-AMZ/LeetCode/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/yuti-AMZ/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
