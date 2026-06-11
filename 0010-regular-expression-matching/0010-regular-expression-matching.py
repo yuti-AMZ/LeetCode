@@ -1,25 +1,51 @@
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
-        m, n = len(s), len(p)
-        dp = [[False] * (n + 1) for _ in range(m + 1)]
+        i, j = len(s) - 1, len(p) - 1
+        return self.backtrack({}, s, p, i, j)
+
+    def backtrack(self, cache, s, p, i, j):
+        key = (i, j)
+        if key in cache:
+            return cache[key]
+
+        if i == -1 and j == -1:
+            cache[key] = True
+            return True
+
+        if i != -1 and j == -1:
+            cache[key] = False
+            return cache[key]
+
+        if i == -1 and p[j] == '*':
+            k = j
+            while k != -1 and p[k] == '*':
+                k -= 2
+            
+            if k == -1:
+                cache[key] = True
+                return cache[key]
+            
+            cache[key] = False
+            return cache[key]
         
-        dp[0][0] = True
+        if i == -1 and p[j] != '*':
+            cache[key] = False
+            return cache[key]
 
-        # Handle patterns like a*, a*b*, a*b*c*
-        for j in range(2, n + 1):
-            if p[j - 1] == '*':
-                dp[0][j] = dp[0][j - 2]
+        if p[j] == '*':
+            if self.backtrack(cache, s, p, i, j - 2):
+                cache[key] = True
+                return cache[key]
+            
+            if p[j - 1] == s[i] or p[j - 1] == '.':
+                if self.backtrack(cache, s, p, i - 1, j):
+                    cache[key] = True
+                    return cache[key]
+        
+        if p[j] == '.' or s[i] == p[j]:
+            if self.backtrack(cache, s, p, i - 1, j - 1):
+                cache[key] = True
+                return cache[key]
 
-        for i in range(1, m + 1):
-            for j in range(1, n + 1):
-                if p[j - 1] == s[i - 1] or p[j - 1] == '.':
-                    dp[i][j] = dp[i - 1][j - 1]
-                elif p[j - 1] == '*':
-                    # zero occurrence
-                    dp[i][j] = dp[i][j - 2]
-                    
-                    # one or more occurrence
-                    if p[j - 2] == s[i - 1] or p[j - 2] == '.':
-                        dp[i][j] = dp[i][j] or dp[i - 1][j]
-
-        return dp[m][n]
+        cache[key] = False
+        return cache[key]
