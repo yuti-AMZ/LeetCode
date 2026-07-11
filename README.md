@@ -1,6 +1,6 @@
 A collection of LeetCode questions use to the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# LeetCode Topics for DSA
 ## Math
 |  |
 | ------- |
