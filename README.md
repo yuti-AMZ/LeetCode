@@ -1,5 +1,5 @@
 A collection of LeetCode questions use to the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
+<!---LeetCodes Topics Start-->
 # LeetCode Topics for DSA
 ## Mathss
 |  |
